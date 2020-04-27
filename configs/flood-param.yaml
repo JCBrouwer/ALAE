@@ -1,7 +1,7 @@
 NAME: alaeset
 DATASET:
   PART_COUNT: 16
-  SIZE: 40000
+  SIZE: 48000
   FFHQ_SOURCE: /home/hans/trainsets/alaeset/r%02d.tfrecords
   PATH: /home/hans/trainsets/alaeset/r%02d.tfrecords.%03d
   MAX_RESOLUTION_LEVEL: 7
